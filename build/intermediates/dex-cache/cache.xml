@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_d69ec7d78b42bb33b5f557f76a5c73e2d221e84a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_c90b0b1b30c81d49fb5e7dbd08d5b62268dbe986\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_7836976b76ca93ca0e43c52f04439c54de87cf86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_08d036685853c0aace242ebf0987ae01238a0dbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_5c9a418e1d136846a0250dea4c05c0f593dd60e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_c10dd67c8b0004206e7fa2da44b091c8c248f3d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_359a15e48252b89ff12b77cd0030bfe67c45732a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_074312ad2d895c6386d86cc88089380fc4d71ccc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_d2d9e762cfee4e9953fb0e7e9f4e7b545d983353\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_9ab23632497f9eda138739005aed1ef799bd3a46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_fdbf9930a179d67c5e463f5bdc278eafe2b558d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1ce88bb1174a2789fa2be90f65e9b5be1189fc53">
+        <dex dex="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1bf3dc37a4f4973529e115db918923932094d508\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_f68315550d67a78a05e840936e0427b04bdf6ac0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SongJin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_9b1ddbeaf338593a51bd0b755410fd009ca53093\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_52cda3dceece561961acc2294ab1699cb8ab7d20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_a7e37fa33ff1fc13acffe3f81a9be53990c127f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_62791ab4886284aa190c924b0b14625ba15a5904\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6d525e41746bd5361ba90a343a1cec4f52c03ca8">
+        <dex dex="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6b46d3698d5d99f40148f370197613f11f560d4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_45874e02dbfea678ec7fb9968a15fa9e7aefd96b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_f49b50ad1c0e78ad4c63dad827710e7c023cb35d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\SongJin\AndroidStudioProjects\3601Project01\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_de1ea6bd2e9637280a393b07176c69f23456481b\classes.dex" />
+    </item>
+
+</items>
